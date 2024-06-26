@@ -18,6 +18,7 @@ for(i=0; i<matrix.length; i++){
   for(j=0; j<matrix[i].length; j++){
      document.write(matrix[i][j])
   }
+  document.write("<br>")
 }
 
 document.write("<br>" + "<br>")
